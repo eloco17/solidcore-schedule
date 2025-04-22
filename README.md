@@ -4,21 +4,21 @@ A full-stack application for scheduling and managing pickleball sessions at Life
 
 ## UI Showcase
 
-### Schedule View
-![Schedule View](screenshots/week-view-next-week.png)
-*Main schedule interface showing available pickleball sessions with scheduling options*
+### Main Schedule Interface
+![Schedule Interface](docs/images/Schedule%20page.png)
+*Modern interface for viewing and scheduling pickleball sessions*
 
-### Session Details
-![Session Details](screenshots/schedule-loaded-MONDAY.png)
-*Detailed view of available sessions with scheduling options*
+### Scheduled Sessions
+![Scheduled Sessions](docs/images/Bookings%20page.png)
+*View your upcoming scheduled sessions with status indicators*
 
-### Login Interface
-![Login Screen](screenshots/login-page.png)
+### Account Settings
+![Account Settings](docs/images/Settings%20page.png)
+*Secure credential management interface*
+
+### Login Screen
+![Login Screen](docs/images/Login%20page.png)
 *Clean and simple login interface*
-
-### After Login
-![After Login](screenshots/after-login.png)
-*Successfully authenticated user interface*
 
 ## Features
 
