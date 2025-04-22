@@ -8,6 +8,10 @@ A full-stack application for scheduling and managing pickleball sessions at Life
 ![Schedule Interface](docs/images/Schedule%20page.png)
 *Modern interface for viewing and scheduling pickleball sessions*
 
+### Scheduling Dialog
+![Scheduling Dialog](docs/images/Schedule%20dialog.png)
+*Easy one-click scheduling interface with session details*
+
 ### Scheduled Sessions
 ![Scheduled Sessions](docs/images/Bookings%20page.png)
 *View your upcoming scheduled sessions with status indicators*
