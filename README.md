@@ -50,7 +50,7 @@ A full-stack application for scheduling and managing pickleball sessions at Life
 ## Tech Stack
 
 - **Frontend**: Next.js, React, TypeScript, Tailwind CSS
-- **Backend**: Next.js API Routes
+- **Backend**: Next.js, API Routes, and Python Script all hosted in GCP
 - **Database**: Prisma with SQLite/PostgreSQL
 - **Authentication**: Custom auth system
 - **Deployment**: Vercel
