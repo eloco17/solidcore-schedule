@@ -24,6 +24,10 @@ A full-stack application for scheduling and managing pickleball sessions at Life
 ![Login Screen](docs/images/Login%20page.png)
 *Clean and simple login interface*
 
+### Register Screen
+![Register Screen](docs/images/Register%20page.png)
+*Quick and easy registration process*
+
 ## Features
 
 - 🎾 Real-time session availability tracking
