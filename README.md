@@ -121,8 +121,7 @@ NODE_ENV="production"
 The project includes Python scripts for automated session management:
 
 - `scripts/bot/lt_bot.py`: Main bot for session scheduling
-- `scripts/cloud/cloud_function.py`: Cloud function for automated tasks
-- `scripts/vm_api.py`: VM API for remote execution
+- `scripts/cloud/server.js`: Cloud function scheduling the automated google task
 
 To run the bot:
 ```bash
