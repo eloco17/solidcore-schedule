@@ -1,6 +1,6 @@
 # Lifetime Pickleball Scheduler
 
-A full-stack application for scheduling and managing pickleball sessions at Lifetime Fitness. This project includes both a web interface and automated scheduling system.
+A full-stack application for scheduling and managing pickleball sessions at Lifetime Fitness. This project includes both a web interface and automated scheduling system. https://multi-user-lifetime-app.vercel.app/
 
 ## UI Showcase
 
