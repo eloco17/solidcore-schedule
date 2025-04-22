@@ -2,14 +2,34 @@
 
 A full-stack application for scheduling and managing pickleball sessions at Lifetime Fitness. This project includes both a web interface and automated scheduling system.
 
+## UI Showcase
+
+### Schedule View
+![Schedule View](screenshots/week-view-next-week.png)
+*Main schedule interface showing available pickleball sessions with scheduling options*
+
+### Session Details
+![Session Details](screenshots/schedule-loaded-MONDAY.png)
+*Detailed view of available sessions with scheduling options*
+
+### Login Interface
+![Login Screen](screenshots/login-page.png)
+*Clean and simple login interface*
+
+### After Login
+![After Login](screenshots/after-login.png)
+*Successfully authenticated user interface*
+
 ## Features
 
 - 🎾 Real-time session availability tracking
-- 🤖 Automated session scheduling
-- 🔔 Session status notifications
-- 📅 Calendar integration
-- 🔒 Secure authentication
+- 🤖 Automated session scheduling with smart booking logic
+- 🔔 Session status notifications and confirmations
+- 📅 Weekly calendar view with session details
+- 🔒 Secure authentication and credential management
 - 📱 Mobile-responsive design
+- 🎯 DUPR level filtering and session targeting
+- 🤝 Partner matching for drill sessions
 
 ## Tech Stack
 
