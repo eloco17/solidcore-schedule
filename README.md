@@ -34,7 +34,7 @@ A full-stack application for scheduling and managing pickleball sessions at Life
 ├── prisma/               # Database schema
 ├── scripts/              # Python automation scripts
 │   ├── bot/             # Bot-related scripts
-│   └── cloud/           # Cloud function scripts
+│   └── cloud/           # Cloud function scheduling scripts
 └── public/              # Static assets
 ```
 
