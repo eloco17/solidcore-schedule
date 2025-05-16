@@ -1,5 +1,4 @@
 import { NextResponse } from 'next/server';
-import { CloudTasksClient } from '@google-cloud/tasks';
 
 // GCP project/queue/location config
 const PROJECT_ID = process.env.GCP_PROJECT_ID || 'your-gcp-project-id';
