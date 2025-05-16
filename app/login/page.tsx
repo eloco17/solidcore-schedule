@@ -1,17 +1,12 @@
 "use client"
 
 import { useState } from "react"
-import { useRouter } from "next/navigation"
 import { Button } from "@/components/ui/button"
+import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
-import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
-import { toast } from "sonner"
-import { AlertCircle, Loader2 } from "lucide-react"
-import { Alert, AlertDescription } from "@/components/ui/alert"
 
 export default function LoginPage() {
-  const router = useRouter()
   const [email, setEmail] = useState("")
   const [password, setPassword] = useState("")
   const [isLoading, setIsLoading] = useState(false)
@@ -35,79 +30,39 @@ export default function LoginPage() {
         throw new Error(data.error || "Login failed")
       }
 
-      toast.success("Login successful")
-      
-      // Add a small delay before redirecting
-      setTimeout(() => {
-        router.push("/")
-        router.refresh()
-      }, 1000)
-    } catch (error: any) {
-      console.error("Login error:", error)
-      setError(error.message || "Login failed")
-      toast.error("Login failed", {
-        description: error.message || "An unexpected error occurred",
-      })
+      window.location.href = "/"
+    } catch (err: any) {
+      setError(err.message || "Login failed")
     } finally {
       setIsLoading(false)
     }
   }
 
   return (
-    <div className="flex justify-center items-center min-h-screen">
+    <div className="flex justify-center items-center min-h-[80vh]">
       <Card className="w-full max-w-md">
         <CardHeader>
-          <CardTitle>Login</CardTitle>
-          <CardDescription>Sign in to your Pickleball Bot account</CardDescription>
+          <CardTitle>Login to Solidcore Scheduler</CardTitle>
+          <CardDescription>Enter your credentials to access your Solidcore schedule</CardDescription>
         </CardHeader>
-
-        {error && (
-          <div className="px-6">
-            <Alert variant="destructive" className="mb-4">
-              <AlertCircle className="h-4 w-4" />
-              <AlertDescription>{error}</AlertDescription>
-            </Alert>
-          </div>
-        )}
-
         <form onSubmit={handleLogin}>
           <CardContent className="space-y-4">
             <div className="space-y-2">
               <Label htmlFor="email">Email</Label>
-              <Input 
-                id="email" 
-                type="email" 
-                value={email} 
-                onChange={(e) => setEmail(e.target.value)} 
-                required 
-                autoComplete="email"
-              />
+              <Input id="email" type="email" value={email} onChange={e => setEmail(e.target.value)} required />
             </div>
             <div className="space-y-2">
               <Label htmlFor="password">Password</Label>
-              <Input
-                id="password"
-                type="password"
-                value={password}
-                onChange={(e) => setPassword(e.target.value)}
-                required
-                autoComplete="current-password"
-              />
+              <Input id="password" type="password" value={password} onChange={e => setPassword(e.target.value)} required />
             </div>
+            {error && <div className="text-red-500 text-center text-sm">{error}</div>}
           </CardContent>
           <CardFooter className="flex justify-between">
-            <Button variant="outline" onClick={() => router.push("/register")}>
+            <Button type="button" onClick={() => window.location.href = "/register"}>
               Register
             </Button>
             <Button type="submit" disabled={isLoading}>
-              {isLoading ? (
-                <>
-                  <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-                  Logging in...
-                </>
-              ) : (
-                "Login"
-              )}
+              {isLoading ? "Logging in..." : "Login"}
             </Button>
           </CardFooter>
         </form>

@@ -1,0 +1,2816 @@
+[
+  {
+    "date": "05/18",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "7:15am - 8:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "8:00am - 8:50am (50 min)",
+    "teacher": "Evan H.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 2 | Focus50: Core + Lower + Upper Body",
+    "time": "8:15am - 9:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "9:00am - 9:50am (50 min)",
+    "teacher": "Evan H.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 2 | Signature50: Full Body | EDM Sundays: John Summit V Dom Dolla",
+    "time": "9:15am - 10:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 1 | Focus50: Core + Obliques + Upper Body",
+    "time": "10:00am - 10:50am (50 min)",
+    "teacher": "Evan H.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "10:15am - 11:05am (50 min)",
+    "teacher": "Dasha R.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "11:00am - 11:50am (50 min)",
+    "teacher": "Maya P.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 2 | Focus50: Core + Obliques + Upper Body",
+    "time": "11:15am - 12:05pm (50 min)",
+    "teacher": "Dasha R.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 1 | Advanced50: Full Body",
+    "time": "12:00pm - 12:50pm (50 min)",
+    "teacher": "Maya P.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "12:15pm - 1:05pm (50 min)",
+    "teacher": "Dasha R.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "1:00pm - 1:50pm (50 min)",
+    "teacher": "Carmel M.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 2 | Starter50: Intro To [solidcore]",
+    "time": "1:15pm - 2:05pm (50 min)",
+    "teacher": "Hannah G.",
+    "status": "4 of 13 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "2:00pm - 2:50pm (50 min)",
+    "teacher": "Carmel M.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "2:15pm - 3:05pm (50 min)",
+    "teacher": "Hannah G.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 1 | Focus50: Core + Lower + Upper Body",
+    "time": "3:00pm - 3:50pm (50 min)",
+    "teacher": "Sydney E.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "3:15pm - 4:05pm (50 min)",
+    "teacher": "Hannah G.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "4:00pm - 4:50pm (50 min)",
+    "teacher": "Sydney E.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "4:15pm - 5:05pm (50 min)",
+    "teacher": "Mars W.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 1 | Focus50: Core + Obliques + Lower Body",
+    "time": "5:00pm - 5:50pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "7 of 17 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "5:15pm - 6:05pm (50 min)",
+    "teacher": "Mars W.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:00pm - 6:50pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "6 of 17 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15pm - 7:05pm (50 min)",
+    "teacher": "Heather B.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 1 | Starter50: Intro to [solidcore]",
+    "time": "7:00pm - 7:50pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "9 of 17 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "7:15pm - 8:05pm (50 min)",
+    "teacher": "Heather B.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/18",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "8:15pm - 9:05pm (50 min)",
+    "teacher": "Heather B.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "5:15am - 6:05am (50 min)",
+    "teacher": "Luis T.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:05am - 6:55am (50 min)",
+    "teacher": "Cullen B.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15am - 7:05am (50 min)",
+    "teacher": "Luis T.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "7:05am - 7:55am (50 min)",
+    "teacher": "Cullen B.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "7:15am - 8:05am (50 min)",
+    "teacher": "Luis T.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "8:05am - 8:55am (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Focus50: Core + Lower + Upper Body",
+    "time": "8:15am - 9:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "9:05am - 9:55am (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "9:15am - 10:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "10:05am - 10:55am (50 min)",
+    "teacher": "Carmel M.",
+    "status": "5 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "10:15am - 11:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Focus50: Core + Obliques + Lower Body",
+    "time": "11:05am - 11:55am (50 min)",
+    "teacher": "Carmel M.",
+    "status": "8 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Starter50: Intro To [solidcore]",
+    "time": "11:15am - 12:05pm (50 min)",
+    "teacher": "Caleb M.",
+    "status": "7 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "12:05pm - 12:55pm (50 min)",
+    "teacher": "Jane S.",
+    "status": "6 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Power30: Core + Obliques",
+    "time": "12:15pm - 12:45pm (30 min)",
+    "teacher": "Caleb M.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "1:05pm - 1:55pm (50 min)",
+    "teacher": "Jane S.",
+    "status": "7 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Power30: Core + Lower Body",
+    "time": "2:05pm - 2:35pm (30 min)",
+    "teacher": "Raven L.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "3:15pm - 4:05pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "6 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "3:30pm - 4:20pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "6 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "4:15pm - 5:05pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "4:30pm - 5:20pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "5:15pm - 6:05pm (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "5:30pm - 6:20pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Advanced50: Full Body",
+    "time": "6:15pm - 7:05pm (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:30pm - 7:20pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Starter50: Intro To [solidcore]",
+    "time": "7:15pm - 8:05pm (50 min)",
+    "teacher": "John B.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Signature50: Full Body | Hannah + Jaime Team Teach",
+    "time": "7:30pm - 8:20pm (50 min)",
+    "teacher": "Hannah G.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15pm - 9:05pm (50 min)",
+    "teacher": "John B.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "8:30pm - 9:20pm (50 min)",
+    "teacher": "Hannah G.",
+    "status": "7 of 17 open"
+  },
+  {
+    "date": "05/19",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "9:15pm - 10:05pm (50 min)",
+    "teacher": "John B.",
+    "status": "7 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "5:05am - 5:55am (50 min)",
+    "teacher": "Milan H.",
+    "status": "6 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Power30: Core + Obliques",
+    "time": "5:35am - 6:05am (30 min)",
+    "teacher": "Evan H.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:05am - 6:55am (50 min)",
+    "teacher": "Milan H.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15am - 7:05am (50 min)",
+    "teacher": "Evan H.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "7:05am - 7:55am (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "7:15am - 8:05am (50 min)",
+    "teacher": "Evan H.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Advanced50: Full Body",
+    "time": "8:05am - 8:55am (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15am - 9:05am (50 min)",
+    "teacher": "Alex N.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Signature50: Full Body | Katie + Jaime Team Teach",
+    "time": "9:05am - 9:55am (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Focus50: Core + Obliques + Lower Body",
+    "time": "9:15am - 10:05am (50 min)",
+    "teacher": "Alex N.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Focus50: Core + Obliques + Upper Body",
+    "time": "10:05am - 10:55am (50 min)",
+    "teacher": "Maya P.",
+    "status": "7 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Signature50: Full Body | The evolution of BEYONC\u00c9",
+    "time": "10:15am - 11:05am (50 min)",
+    "teacher": "Jamal D.",
+    "status": "6 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "11:05am - 11:55am (50 min)",
+    "teacher": "Maya P.",
+    "status": "10 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "11:15am - 12:05pm (50 min)",
+    "teacher": "Carmel M.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Focus50: Core + Lower + Upper Body",
+    "time": "12:05pm - 12:55pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "11 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "12:15pm - 1:05pm (50 min)",
+    "teacher": "Carmel M.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "1:05pm - 1:55pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "10 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Off-Peak Starter50 - Intro to [solidcore]",
+    "time": "1:15pm - 2:05pm (50 min)",
+    "teacher": "Carmel M.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "2:05pm - 2:55pm (50 min)",
+    "teacher": "Raven L.",
+    "status": "10 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "2:15pm - 3:05pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Focus50: Core + Lower + Upper Body",
+    "time": "3:15pm - 4:05pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "3:30pm - 4:20pm (50 min)",
+    "teacher": "Evan H.",
+    "status": "9 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "4:15pm - 5:05pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Focus50: Core + Obliques + Lower Body",
+    "time": "4:30pm - 5:20pm (50 min)",
+    "teacher": "Evan H.",
+    "status": "7 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "5:15pm - 6:05pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "5:30pm - 6:20pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15pm - 7:05pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:30pm - 7:20pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "7:15pm - 8:05pm (50 min)",
+    "teacher": "Sydney E.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Focus50: Core + Lower + Upper Body",
+    "time": "7:30pm - 8:20pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15pm - 9:05pm (50 min)",
+    "teacher": "Sydney E.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 1 | Signature50: Full Body | Taylor Swift Tuesday",
+    "time": "8:30pm - 9:20pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "9:15pm - 10:05pm (50 min)",
+    "teacher": "Katie F.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/20",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "10:15pm - 11:05pm (50 min)",
+    "teacher": "Katie F.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "5:15am - 6:05am (50 min)",
+    "teacher": "Michelle K.",
+    "status": "7 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Power30: Core + Obliques",
+    "time": "5:25am - 5:55am (30 min)",
+    "teacher": "Cullen B.",
+    "status": "8 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:05am - 6:55am (50 min)",
+    "teacher": "Cullen B.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15am - 7:05am (50 min)",
+    "teacher": "Michelle K.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "7:05am - 7:55am (50 min)",
+    "teacher": "Cullen B.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "7:15am - 8:05am (50 min)",
+    "teacher": "Michelle K.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "8:05am - 8:55am (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15am - 9:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "9:05am - 9:55am (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Focus50: Core + Lower + Upper Body",
+    "time": "9:15am - 10:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "10:05am - 10:55am (50 min)",
+    "teacher": "Maya P.",
+    "status": "3 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Focus50: Core + Obliques + Lower Body",
+    "time": "10:15am - 11:05am (50 min)",
+    "teacher": "Marisa F.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Power30: Core + Upper Body",
+    "time": "11:05am - 11:35am (30 min)",
+    "teacher": "Maya P.",
+    "status": "12 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Signature50: Full Body | [Shake] it Off: Taylor Swift",
+    "time": "11:15am - 12:05pm (50 min)",
+    "teacher": "Marisa F.",
+    "status": "4 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Starter50: Intro to [solidcore]",
+    "time": "12:05pm - 12:55pm (50 min)",
+    "teacher": "John B.",
+    "status": "11 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "12:15pm - 1:05pm (50 min)",
+    "teacher": "Marisa F.",
+    "status": "6 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "1:05pm - 1:55pm (50 min)",
+    "teacher": "John B.",
+    "status": "11 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "2:15pm - 3:05pm (50 min)",
+    "teacher": "Madison D.",
+    "status": "7 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Power30: Core + Lower Body",
+    "time": "2:45pm - 3:15pm (30 min)",
+    "teacher": "Trish H.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "3:15pm - 4:05pm (50 min)",
+    "teacher": "Kristine Z.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "3:30pm - 4:20pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "12 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "4:15pm - 5:05pm (50 min)",
+    "teacher": "Kristine Z.",
+    "status": "7 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "4:30pm - 5:20pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "2 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "5:15pm - 6:05pm (50 min)",
+    "teacher": "Jane S.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "5:30pm - 6:20pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Signature50: Full Body | john summit + friends",
+    "time": "6:15pm - 7:05pm (50 min)",
+    "teacher": "Jane S.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Focus50: Core + Obliques + Upper Body",
+    "time": "6:30pm - 7:20pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Focus50: Core + Obliques + Lower Body",
+    "time": "7:15pm - 8:05pm (50 min)",
+    "teacher": "Dasha R.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "7:30pm - 8:20pm (50 min)",
+    "teacher": "Alex N.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15pm - 9:05pm (50 min)",
+    "teacher": "Sydney E.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Starter50: Intro to [solidcore]",
+    "time": "8:30pm - 9:20pm (50 min)",
+    "teacher": "Alex N.",
+    "status": "11 of 17 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "9:15pm - 10:05pm (50 min)",
+    "teacher": "Sydney E.",
+    "status": "6 of 13 open"
+  },
+  {
+    "date": "05/21",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "9:30pm - 10:20pm (50 min)",
+    "teacher": "Jamal D.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "5:15am - 6:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:05am - 6:55am (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15am - 7:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "7:05am - 7:55am (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "7:15am - 8:05am (50 min)",
+    "teacher": "Marisa F.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 1 | Advanced50: Full Body",
+    "time": "8:05am - 8:55am (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15am - 9:05am (50 min)",
+    "teacher": "Marisa F.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 1 | Signature50: Full Body | 5B Raffle | AAPI Month Celebration",
+    "time": "9:05am - 9:55am (50 min)",
+    "teacher": "Carmel M.",
+    "status": "3 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Focus50: Core + Obliques + Upper Body",
+    "time": "9:15am - 10:05am (50 min)",
+    "teacher": "Jane S.",
+    "status": "3 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "10:05am - 10:55am (50 min)",
+    "teacher": "Carmel M.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "10:15am - 11:05am (50 min)",
+    "teacher": "Jane S.",
+    "status": "2 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "11:05am - 11:55am (50 min)",
+    "teacher": "Katie D.",
+    "status": "7 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Focus50: Core + Obliques + Lower Body",
+    "time": "11:15am - 12:05pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "12:05pm - 12:55pm (50 min)",
+    "teacher": "Katie D.",
+    "status": "8 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Power30: Core + Upper Body",
+    "time": "12:15pm - 12:45pm (30 min)",
+    "teacher": "Marcus J.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 1 | Power30: Core + Obliques",
+    "time": "1:05pm - 1:35pm (30 min)",
+    "teacher": "Katie D.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "1:15pm - 2:05pm (50 min)",
+    "teacher": "Maya P.",
+    "status": "6 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Off-Peak Starter50 - Intro to [solidcore]",
+    "time": "3:15pm - 4:05pm (50 min)",
+    "teacher": "Evan H.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "3:30pm - 4:20pm (50 min)",
+    "teacher": "Michelle K.",
+    "status": "11 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Focus50: Core + Obliques + Upper Body",
+    "time": "4:15pm - 5:05pm (50 min)",
+    "teacher": "Evan H.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "4:30pm - 5:20pm (50 min)",
+    "teacher": "Michelle K.",
+    "status": "9 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "5:15pm - 6:05pm (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 1 | Focus50: Core + Lower + Upper Body",
+    "time": "5:30pm - 6:20pm (50 min)",
+    "teacher": "Shannon C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15pm - 7:05pm (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:30pm - 7:20pm (50 min)",
+    "teacher": "Shannon C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "7:15pm - 8:05pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "7:30pm - 8:20pm (50 min)",
+    "teacher": "Sydney E.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15pm - 9:05pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "4 of 13 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "8:30pm - 9:20pm (50 min)",
+    "teacher": "Sydney E.",
+    "status": "6 of 17 open"
+  },
+  {
+    "date": "05/22",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "9:15pm - 10:05pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "5:15am - 6:05am (50 min)",
+    "teacher": "Marisa F.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:05am - 6:55am (50 min)",
+    "teacher": "Jane S.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15am - 7:05am (50 min)",
+    "teacher": "Marisa F.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Advanced50: Full Body",
+    "time": "7:05am - 7:55am (50 min)",
+    "teacher": "Jane S.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "7:15am - 8:05am (50 min)",
+    "teacher": "Evan H.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "8:05am - 8:55am (50 min)",
+    "teacher": "Jaime F.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15am - 9:05am (50 min)",
+    "teacher": "Evan H.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "9:05am - 9:55am (50 min)",
+    "teacher": "Jaime F.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "9:15am - 10:05am (50 min)",
+    "teacher": "Marcus J.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "10:05am - 10:55am (50 min)",
+    "teacher": "Jaime F.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "10:15am - 11:05am (50 min)",
+    "teacher": "Marcus J.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "11:05am - 11:55am (50 min)",
+    "teacher": "Katie D.",
+    "status": "10 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Focus50: Core + Lower + Upper Body",
+    "time": "11:15am - 12:05pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Focus50: Core + Obliques + Upper Body",
+    "time": "12:05pm - 12:55pm (50 min)",
+    "teacher": "Katie D.",
+    "status": "6 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "12:15pm - 1:05pm (50 min)",
+    "teacher": "Michelle K.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "1:05pm - 1:55pm (50 min)",
+    "teacher": "Katie D.",
+    "status": "9 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "1:15pm - 2:05pm (50 min)",
+    "teacher": "Michelle K.",
+    "status": "7 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "2:05pm - 2:55pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "8 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "2:15pm - 3:05pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Power30: Core + Lower Body",
+    "time": "3:05pm - 3:35pm (30 min)",
+    "teacher": "Trish H.",
+    "status": "11 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Starter50: Intro To [solidcore]",
+    "time": "3:15pm - 4:05pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Power30: Core + Obliques",
+    "time": "3:45pm - 4:15pm (30 min)",
+    "teacher": "Jaime F.",
+    "status": "11 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "4:15pm - 5:05pm (50 min)",
+    "teacher": "Evan H.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Focus50: Core + Lower + Upper Body",
+    "time": "4:30pm - 5:20pm (50 min)",
+    "teacher": "Jaime F.",
+    "status": "6 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Focus50: Core + Obliques + Upper Body",
+    "time": "5:15pm - 6:05pm (50 min)",
+    "teacher": "Evan H.",
+    "status": "4 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Advanced50: Full Body",
+    "time": "5:30pm - 6:20pm (50 min)",
+    "teacher": "Jaime F.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15pm - 7:05pm (50 min)",
+    "teacher": "John B.",
+    "status": "6 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Signature50: Full Body | Caleb + Michelle Team Teach | Beyonc\u00e9",
+    "time": "6:30pm - 7:20pm (50 min)",
+    "teacher": "Caleb M.",
+    "status": "7 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Off-Peak Starter50 - Intro to [solidcore]",
+    "time": "7:15pm - 8:05pm (50 min)",
+    "teacher": "John B.",
+    "status": "7 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "7:30pm - 8:20pm (50 min)",
+    "teacher": "Caleb M.",
+    "status": "10 of 17 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "8:15pm - 9:05pm (50 min)",
+    "teacher": "Juan V.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/23",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "8:30pm - 9:20pm (50 min)",
+    "teacher": "Jamal D.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 2 | Power30: Core + Obliques",
+    "time": "6:35am - 7:05am (30 min)",
+    "teacher": "Marisa F.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "7:15am - 8:05am (50 min)",
+    "teacher": "Marisa F.",
+    "status": "7 of 13 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 1 | Advanced65: Full Body",
+    "time": "7:45am - 8:50am (65 min)",
+    "teacher": "Jaime F.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15am - 9:05am (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 1 | Focus50: Core + Obliques + Upper Body",
+    "time": "9:00am - 9:50am (50 min)",
+    "teacher": "Jaime F.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 2 | Advanced50: Full Body",
+    "time": "9:15am - 10:05am (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "10:00am - 10:50am (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 2 | Focus50: Core + Obliques + Upper Body",
+    "time": "10:15am - 11:05am (50 min)",
+    "teacher": "Alex N.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 1 | Advanced50: Full Body",
+    "time": "11:00am - 11:50am (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "11:15am - 12:05pm (50 min)",
+    "teacher": "Alex N.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "12:00pm - 12:50pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "12:15pm - 1:05pm (50 min)",
+    "teacher": "Alex N.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "1:00pm - 1:50pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "9 of 17 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "1:15pm - 2:05pm (50 min)",
+    "teacher": "Michelle K.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 1 | Focus50: Core + Lower + Upper Body",
+    "time": "2:00pm - 2:50pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "9 of 17 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "2:15pm - 3:05pm (50 min)",
+    "teacher": "Michelle K.",
+    "status": "7 of 13 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "3:00pm - 3:50pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "12 of 17 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 2 | Focus50: Core + Obliques + Lower Body",
+    "time": "3:15pm - 4:05pm (50 min)",
+    "teacher": "Michelle K.",
+    "status": "6 of 13 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "4:00pm - 4:50pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body | Princess of Pop",
+    "time": "4:15pm - 5:05pm (50 min)",
+    "teacher": "John B.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 1 | Starter50: Intro to [solidcore]",
+    "time": "5:00pm - 5:50pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body | Princess of Pop",
+    "time": "5:15pm - 6:05pm (50 min)",
+    "teacher": "John B.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "6:00pm - 6:50pm (50 min)",
+    "teacher": "Jamal D.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 2 | Power30: Core + Upper Body",
+    "time": "6:15pm - 6:45pm (30 min)",
+    "teacher": "John B.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/24",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "7:00pm - 7:50pm (50 min)",
+    "teacher": "Jamal D.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "7:15am - 8:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "8:00am - 8:50am (50 min)",
+    "teacher": "Evan H.",
+    "status": "11 of 17 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 2 | Focus50: Core + Lower + Upper Body",
+    "time": "8:15am - 9:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "9:00am - 9:50am (50 min)",
+    "teacher": "Evan H.",
+    "status": "4 of 17 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 2 | Signature50: Full Body | EDM Sundays: Classics",
+    "time": "9:15am - 10:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "3 of 13 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 1 | Focus50: Core + Obliques + Upper Body",
+    "time": "10:00am - 10:50am (50 min)",
+    "teacher": "Evan H.",
+    "status": "2 of 17 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "10:15am - 11:05am (50 min)",
+    "teacher": "Dasha R.",
+    "status": "2 of 13 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "11:00am - 11:50am (50 min)",
+    "teacher": "Jane S.",
+    "status": "3 of 17 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 2 | Focus50: Core + Obliques + Upper Body",
+    "time": "11:15am - 12:05pm (50 min)",
+    "teacher": "Dasha R.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 1 | Advanced50: Full Body",
+    "time": "12:00pm - 12:50pm (50 min)",
+    "teacher": "Jane S.",
+    "status": "6 of 17 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "12:15pm - 1:05pm (50 min)",
+    "teacher": "Dasha R.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "1:00pm - 1:50pm (50 min)",
+    "teacher": "Jane S.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 2 | Starter50: Intro To [solidcore]",
+    "time": "1:15pm - 2:05pm (50 min)",
+    "teacher": "Erika D.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "2:00pm - 2:50pm (50 min)",
+    "teacher": "Cecilia D.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "2:15pm - 3:05pm (50 min)",
+    "teacher": "Rebecca G.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "3:00pm - 3:50pm (50 min)",
+    "teacher": "Heather B.",
+    "status": "10 of 17 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "3:15pm - 4:05pm (50 min)",
+    "teacher": "Rebecca G.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "4:00pm - 4:50pm (50 min)",
+    "teacher": "Heather B.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "4:15pm - 5:05pm (50 min)",
+    "teacher": "Juan V.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "5:00pm - 5:50pm (50 min)",
+    "teacher": "Madison D.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "5:15pm - 6:05pm (50 min)",
+    "teacher": "Juan V.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:00pm - 6:50pm (50 min)",
+    "teacher": "Madison D.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15pm - 7:05pm (50 min)",
+    "teacher": "Heather B.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "7:00pm - 7:50pm (50 min)",
+    "teacher": "Madison D.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "7:15pm - 8:05pm (50 min)",
+    "teacher": "Heather B.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/25",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "8:15pm - 9:05pm (50 min)",
+    "teacher": "Heather B.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:05am - 6:55am (50 min)",
+    "teacher": "Katie D.",
+    "status": "5 of 17 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 1 | Signature50: Full Body | Katie + Jaime Team Teach",
+    "time": "7:05am - 7:55am (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "8:05am - 8:55am (50 min)",
+    "teacher": "Jaime F.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 2 | Focus50: Core + Obliques + Upper Body",
+    "time": "8:15am - 9:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "2 of 13 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "9:05am - 9:55am (50 min)",
+    "teacher": "Jaime F.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "9:15am - 10:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 1 | Signature50: Full Body | Summer Bops",
+    "time": "10:05am - 10:55am (50 min)",
+    "teacher": "Sydney E.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "10:15am - 11:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 1 | Focus50: Core + Obliques + Lower Body",
+    "time": "11:05am - 11:55am (50 min)",
+    "teacher": "Sydney E.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 2 | Focus50: Core + Lower + Upper Body",
+    "time": "11:15am - 12:05pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "12:05pm - 12:55pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "7 of 17 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "12:15pm - 1:05pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "1:05pm - 1:55pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "2:05pm - 2:55pm (50 min)",
+    "teacher": "Dasha R.",
+    "status": "12 of 17 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "3:30pm - 4:20pm (50 min)",
+    "teacher": "Dasha R.",
+    "status": "11 of 17 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "4:30pm - 5:20pm (50 min)",
+    "teacher": "Dasha R.",
+    "status": "12 of 17 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "5:30pm - 6:20pm (50 min)",
+    "teacher": "Evan H.",
+    "status": "2 of 17 open"
+  },
+  {
+    "date": "05/26",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:30pm - 7:20pm (50 min)",
+    "teacher": "Evan H.",
+    "status": "6 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "5:05am - 5:55am (50 min)",
+    "teacher": "Milan H.",
+    "status": "12 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Power30: Core + Obliques",
+    "time": "5:35am - 6:05am (30 min)",
+    "teacher": "Evan H.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:05am - 6:55am (50 min)",
+    "teacher": "Milan H.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15am - 7:05am (50 min)",
+    "teacher": "Evan H.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "7:05am - 7:55am (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "7:15am - 8:05am (50 min)",
+    "teacher": "Evan H.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Advanced50: Full Body",
+    "time": "8:05am - 8:55am (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15am - 9:05am (50 min)",
+    "teacher": "Alex N.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "9:05am - 9:55am (50 min)",
+    "teacher": "Katie D.",
+    "status": "2 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Focus50: Core + Obliques + Lower Body",
+    "time": "9:15am - 10:05am (50 min)",
+    "teacher": "Alex N.",
+    "status": "7 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Focus50: Core + Obliques + Upper Body",
+    "time": "10:05am - 10:55am (50 min)",
+    "teacher": "Maya P.",
+    "status": "9 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "10:15am - 11:05am (50 min)",
+    "teacher": "Jamal D.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "11:05am - 11:55am (50 min)",
+    "teacher": "Maya P.",
+    "status": "9 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "11:15am - 12:05pm (50 min)",
+    "teacher": "Jamal D.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Focus50: Core + Lower + Upper Body",
+    "time": "12:05pm - 12:55pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "12:15pm - 1:05pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "1:05pm - 1:55pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "10 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Off-Peak Starter50 - Intro to [solidcore]",
+    "time": "1:15pm - 2:05pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "2:05pm - 2:55pm (50 min)",
+    "teacher": "Raven L.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "2:15pm - 3:05pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Focus50: Core + Lower + Upper Body",
+    "time": "3:15pm - 4:05pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "3:30pm - 4:20pm (50 min)",
+    "teacher": "Evan H.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "4:15pm - 5:05pm (50 min)",
+    "teacher": "Shannon C.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Focus50: Core + Obliques + Lower Body",
+    "time": "4:30pm - 5:20pm (50 min)",
+    "teacher": "Evan H.",
+    "status": "7 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "5:15pm - 6:05pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "5:30pm - 6:20pm (50 min)",
+    "teacher": "Shannon C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15pm - 7:05pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:30pm - 7:20pm (50 min)",
+    "teacher": "Shannon C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "7:15pm - 8:05pm (50 min)",
+    "teacher": "Sydney E.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Focus50: Core + Lower + Upper Body",
+    "time": "7:30pm - 8:20pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15pm - 9:05pm (50 min)",
+    "teacher": "Sydney E.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 1 | Signature50: Full Body | Taylor Swift Tuesday",
+    "time": "8:30pm - 9:20pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "9:15pm - 10:05pm (50 min)",
+    "teacher": "Michael F.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/27",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "10:15pm - 11:05pm (50 min)",
+    "teacher": "Michael F.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "5:15am - 6:05am (50 min)",
+    "teacher": "Michelle K.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Power30: Core + Obliques",
+    "time": "5:25am - 5:55am (30 min)",
+    "teacher": "Cullen B.",
+    "status": "12 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:05am - 6:55am (50 min)",
+    "teacher": "Cullen B.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15am - 7:05am (50 min)",
+    "teacher": "Michelle K.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "7:05am - 7:55am (50 min)",
+    "teacher": "Cullen B.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "7:15am - 8:05am (50 min)",
+    "teacher": "Michelle K.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "8:05am - 8:55am (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15am - 9:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "9:05am - 9:55am (50 min)",
+    "teacher": "Robert C.",
+    "status": "3 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Focus50: Core + Lower + Upper Body",
+    "time": "9:15am - 10:05am (50 min)",
+    "teacher": "Caleb M.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "10:05am - 10:55am (50 min)",
+    "teacher": "Maya P.",
+    "status": "8 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Focus50: Core + Obliques + Lower Body",
+    "time": "10:15am - 11:05am (50 min)",
+    "teacher": "Marisa F.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Power30: Core + Upper Body",
+    "time": "11:05am - 11:35am (30 min)",
+    "teacher": "Maya P.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Signature50: Full Body | [Shake] it Off: Taylor Swift",
+    "time": "11:15am - 12:05pm (50 min)",
+    "teacher": "Marisa F.",
+    "status": "6 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Starter50: Intro to [solidcore]",
+    "time": "12:05pm - 12:55pm (50 min)",
+    "teacher": "Shannon C.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "12:15pm - 1:05pm (50 min)",
+    "teacher": "Marisa F.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "1:05pm - 1:55pm (50 min)",
+    "teacher": "Shannon C.",
+    "status": "12 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "2:15pm - 3:05pm (50 min)",
+    "teacher": "Madison D.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Power30: Core + Lower Body",
+    "time": "2:45pm - 3:15pm (30 min)",
+    "teacher": "Trish H.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "3:15pm - 4:05pm (50 min)",
+    "teacher": "Kristine Z.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "3:30pm - 4:20pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "4:15pm - 5:05pm (50 min)",
+    "teacher": "Kristine Z.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "4:30pm - 5:20pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "6 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "5:15pm - 6:05pm (50 min)",
+    "teacher": "Jane S.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "5:30pm - 6:20pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15pm - 7:05pm (50 min)",
+    "teacher": "Jane S.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Focus50: Core + Obliques + Upper Body",
+    "time": "6:30pm - 7:20pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Focus50: Core + Obliques + Lower Body",
+    "time": "7:15pm - 8:05pm (50 min)",
+    "teacher": "Dasha R.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "7:30pm - 8:20pm (50 min)",
+    "teacher": "Alex N.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15pm - 9:05pm (50 min)",
+    "teacher": "Dasha R.",
+    "status": "6 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Starter50: Intro to [solidcore]",
+    "time": "8:30pm - 9:20pm (50 min)",
+    "teacher": "Alex N.",
+    "status": "12 of 17 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "9:15pm - 10:05pm (50 min)",
+    "teacher": "Dasha R.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/28",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "9:30pm - 10:20pm (50 min)",
+    "teacher": "Maggie M.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "5:15am - 6:05am (50 min)",
+    "teacher": "Cullen B.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:05am - 6:55am (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15am - 7:05am (50 min)",
+    "teacher": "Cullen B.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "7:05am - 7:55am (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "7:15am - 8:05am (50 min)",
+    "teacher": "Marisa F.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 1 | Advanced50: Full Body",
+    "time": "8:05am - 8:55am (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15am - 9:05am (50 min)",
+    "teacher": "Marisa F.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "9:05am - 9:55am (50 min)",
+    "teacher": "Jamal D.",
+    "status": "11 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Focus50: Core + Obliques + Upper Body",
+    "time": "9:15am - 10:05am (50 min)",
+    "teacher": "Jane S.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "10:05am - 10:55am (50 min)",
+    "teacher": "Jamal D.",
+    "status": "12 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "10:15am - 11:05am (50 min)",
+    "teacher": "Jane S.",
+    "status": "6 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "11:05am - 11:55am (50 min)",
+    "teacher": "Katie D.",
+    "status": "6 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Focus50: Core + Obliques + Lower Body",
+    "time": "11:15am - 12:05pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "12:05pm - 12:55pm (50 min)",
+    "teacher": "Katie D.",
+    "status": "12 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Power30: Core + Upper Body",
+    "time": "12:15pm - 12:45pm (30 min)",
+    "teacher": "Marcus J.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 1 | Power30: Core + Obliques",
+    "time": "1:05pm - 1:35pm (30 min)",
+    "teacher": "Katie D.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "1:15pm - 2:05pm (50 min)",
+    "teacher": "Maya P.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Off-Peak Starter50 - Intro to [solidcore]",
+    "time": "3:15pm - 4:05pm (50 min)",
+    "teacher": "Evan H.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "3:30pm - 4:20pm (50 min)",
+    "teacher": "Michelle K.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Focus50: Core + Obliques + Upper Body",
+    "time": "4:15pm - 5:05pm (50 min)",
+    "teacher": "Evan H.",
+    "status": "6 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "4:30pm - 5:20pm (50 min)",
+    "teacher": "Michelle K.",
+    "status": "11 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "5:15pm - 6:05pm (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 1 | Focus50: Core + Lower + Upper Body",
+    "time": "5:30pm - 6:20pm (50 min)",
+    "teacher": "Shannon C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15pm - 7:05pm (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:30pm - 7:20pm (50 min)",
+    "teacher": "Shannon C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "7:15pm - 8:05pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "7:30pm - 8:20pm (50 min)",
+    "teacher": "Dasha R.",
+    "status": "1 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15pm - 9:05pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "7 of 13 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "8:30pm - 9:20pm (50 min)",
+    "teacher": "Dasha R.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/29",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "9:15pm - 10:05pm (50 min)",
+    "teacher": "Cecilia D.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "5:15am - 6:05am (50 min)",
+    "teacher": "Marisa F.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "6:05am - 6:55am (50 min)",
+    "teacher": "Jane S.",
+    "status": "6 of 17 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "6:15am - 7:05am (50 min)",
+    "teacher": "Marisa F.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 1 | Advanced50: Full Body",
+    "time": "7:05am - 7:55am (50 min)",
+    "teacher": "Jane S.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "7:15am - 8:05am (50 min)",
+    "teacher": "Evan H.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "8:05am - 8:55am (50 min)",
+    "teacher": "Jaime F.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15am - 9:05am (50 min)",
+    "teacher": "Evan H.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "9:05am - 9:55am (50 min)",
+    "teacher": "Jaime F.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "9:15am - 10:05am (50 min)",
+    "teacher": "Marcus J.",
+    "status": "2 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 1 | Signature50: Full Body | Dream Tea NYC Giveaway",
+    "time": "10:05am - 10:55am (50 min)",
+    "teacher": "Jaime F.",
+    "status": "7 of 17 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "10:15am - 11:05am (50 min)",
+    "teacher": "Marcus J.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "11:05am - 11:55am (50 min)",
+    "teacher": "Katie D.",
+    "status": "11 of 17 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Focus50: Core + Lower + Upper Body",
+    "time": "11:15am - 12:05pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "7 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 1 | Focus50: Core + Obliques + Upper Body",
+    "time": "12:05pm - 12:55pm (50 min)",
+    "teacher": "Katie D.",
+    "status": "7 of 17 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "12:15pm - 1:05pm (50 min)",
+    "teacher": "Michelle K.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "1:05pm - 1:55pm (50 min)",
+    "teacher": "Katie D.",
+    "status": "10 of 17 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "1:15pm - 2:05pm (50 min)",
+    "teacher": "Michelle K.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 1 | Signature50: Full Body | Dream Tea NYC Giveaway",
+    "time": "2:05pm - 2:55pm (50 min)",
+    "teacher": "Trish H.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "2:15pm - 3:05pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 1 | Power30: Core + Lower Body",
+    "time": "3:05pm - 3:35pm (30 min)",
+    "teacher": "Trish H.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Starter50: Intro To [solidcore]",
+    "time": "3:15pm - 4:05pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 1 | Power30: Core + Obliques",
+    "time": "3:45pm - 4:15pm (30 min)",
+    "teacher": "Jaime F.",
+    "status": "13 of 17 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "4:15pm - 5:05pm (50 min)",
+    "teacher": "Evan H.",
+    "status": "6 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 1 | Focus50: Core + Lower + Upper Body",
+    "time": "4:30pm - 5:20pm (50 min)",
+    "teacher": "Jaime F.",
+    "status": "5 of 17 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Focus50: Core + Obliques + Upper Body",
+    "time": "5:15pm - 6:05pm (50 min)",
+    "teacher": "Evan H.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 1 | Advanced50: Full Body",
+    "time": "5:30pm - 6:20pm (50 min)",
+    "teacher": "Jaime F.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Signature50: Full Body | Pride Month Kickoff",
+    "time": "6:15pm - 7:05pm (50 min)",
+    "teacher": "John B.",
+    "status": "8 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Off-Peak Starter50 - Intro to [solidcore]",
+    "time": "7:15pm - 8:05pm (50 min)",
+    "teacher": "John B.",
+    "status": "6 of 13 open"
+  },
+  {
+    "date": "05/30",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "8:15pm - 9:05pm (50 min)",
+    "teacher": "Juan V.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 2 | Power30: Core + Obliques",
+    "time": "6:35am - 7:05am (30 min)",
+    "teacher": "Marisa F.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 2 | Off-Peak Signature50: Full Body",
+    "time": "7:15am - 8:05am (50 min)",
+    "teacher": "Marisa F.",
+    "status": "7 of 13 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 1 | Advanced65: Full Body",
+    "time": "7:45am - 8:50am (65 min)",
+    "teacher": "Jaime F.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "8:15am - 9:05am (50 min)",
+    "teacher": "Katie D.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 1 | Focus50: Core + Obliques + Upper Body",
+    "time": "9:00am - 9:50am (50 min)",
+    "teacher": "Jaime F.",
+    "status": "2 of 17 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 2 | Advanced50: Full Body",
+    "time": "9:15am - 10:05am (50 min)",
+    "teacher": "Katie D.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "10:00am - 10:50am (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 2 | Focus50: Core + Obliques + Upper Body",
+    "time": "10:15am - 11:05am (50 min)",
+    "teacher": "Alex N.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 1 | Advanced50: Full Body",
+    "time": "11:00am - 11:50am (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "11:15am - 12:05pm (50 min)",
+    "teacher": "Alex N.",
+    "status": "0 of 13 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "12:00pm - 12:50pm (50 min)",
+    "teacher": "Robert C.",
+    "status": "0 of 17 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "12:15pm - 1:05pm (50 min)",
+    "teacher": "Alex N.",
+    "status": "5 of 13 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "1:00pm - 1:50pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "7 of 17 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "1:15pm - 2:05pm (50 min)",
+    "teacher": "Michelle K.",
+    "status": "9 of 13 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 1 | Focus50: Core + Lower + Upper Body",
+    "time": "2:00pm - 2:50pm (50 min)",
+    "teacher": "Jonathan S.",
+    "status": "9 of 17 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 2 | Signature50: Full Body",
+    "time": "2:15pm - 3:05pm (50 min)",
+    "teacher": "Michelle K.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "3:00pm - 3:50pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "11 of 17 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 2 | Focus50: Core + Obliques + Lower Body",
+    "time": "3:15pm - 4:05pm (50 min)",
+    "teacher": "Michelle K.",
+    "status": "10 of 13 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 1 | Signature50: Full Body",
+    "time": "4:00pm - 4:50pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 1 | Starter50: Intro to [solidcore]",
+    "time": "5:00pm - 5:50pm (50 min)",
+    "teacher": "Marcus J.",
+    "status": "12 of 17 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body | Dream Tea NYC Giveaway",
+    "time": "6:00pm - 6:50pm (50 min)",
+    "teacher": "Jamal D.",
+    "status": "14 of 17 open"
+  },
+  {
+    "date": "05/31",
+    "name": "Studio 1 | Off-Peak Signature50: Full Body",
+    "time": "7:00pm - 7:50pm (50 min)",
+    "teacher": "Jamal D.",
+    "status": "14 of 17 open"
+  }
+]

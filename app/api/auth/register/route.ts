@@ -1,145 +1,85 @@
 import { NextResponse } from "next/server"
-import bcrypt from "bcrypt"
-import { db } from "@/lib/db"
-import crypto from "crypto"
+import { SignJWT } from 'jose'
+import { hash } from 'bcryptjs'
+import { solidcoreDb } from '@/lib/db'
+
+// TODO: Replace with your actual secret key
+const JWT_SECRET = new TextEncoder().encode(
+  process.env.JWT_SECRET || 'your-secret-key'
+)
 
 export async function POST(request: Request) {
   console.log("Registration endpoint called")
 
   try {
-    // Parse request body
-    let body
-    try {
-      const text = await request.text()
-      console.log("Request body text:", text.substring(0, 100)) // Log first 100 chars
-      body = JSON.parse(text)
-      console.log("Request body parsed successfully")
-    } catch (parseError) {
-      console.error("Error parsing request body:", parseError)
-      return NextResponse.json(
-        {
-          error: "Invalid request format",
-          details: parseError instanceof Error ? parseError.message : String(parseError),
-        },
-        { status: 400 },
-      )
-    }
+    const body = await request.json()
+    const { email, password, firstName, lastName, solidcoreEmail, solidcorePassword } = body
 
-    const { name, email, password } = body
-
-    // Validate input
-    if (!email || !password) {
+    // Validate required fields
+    if (!email || !password || !firstName || !lastName || !solidcoreEmail || !solidcorePassword) {
       console.log("Missing required fields")
       return NextResponse.json(
-        {
-          error: "Missing required fields",
-        },
-        { status: 400 },
+        { error: 'Missing required fields' },
+        { status: 400 }
       )
     }
 
     // Check if user already exists
     console.log("Checking if user already exists...")
-    try {
-      const existingUsers = await db.$queryRaw`
-        SELECT id FROM "User" WHERE email = ${email} LIMIT 1
-      `
-
-      if (Array.isArray(existingUsers) && existingUsers.length > 0) {
-        console.log("User already exists")
-        return NextResponse.json(
-          {
-            error: "User already exists",
-          },
-          { status: 400 },
-        )
-      }
-      console.log("User does not exist, proceeding with registration")
-    } catch (lookupError) {
-      console.error("Error checking for existing user:", lookupError)
+    const existingUser = await solidcoreDb.users.findByEmail(email)
+    if (existingUser) {
+      console.log("User already exists")
       return NextResponse.json(
-        {
-          error: "Database error during user lookup",
-          details: lookupError instanceof Error ? lookupError.message : String(lookupError),
-        },
-        { status: 500 },
+        { error: 'User already exists' },
+        { status: 400 }
       )
     }
+    console.log("User does not exist, proceeding with registration")
 
-    // Hash password
-    console.log("Hashing password...")
-    let hashedPassword
-    try {
-      hashedPassword = await bcrypt.hash(password, 10)
-      console.log("Password hashed successfully")
-    } catch (hashError) {
-      console.error("Error hashing password:", hashError)
-      return NextResponse.json(
-        {
-          error: "Password processing error",
-          details: hashError instanceof Error ? hashError.message : String(hashError),
-        },
-        { status: 500 },
-      )
-    }
+    // Hash passwords
+    console.log("Hashing passwords...")
+    const hashedPassword = await hash(password, 12)
+    const hashedSolidcorePassword = await hash(solidcorePassword, 12)
+    console.log("Passwords hashed successfully")
 
-    // Create user with direct SQL
-    console.log("Creating user with direct SQL...")
-    try {
-      // Generate a UUID for the ID field
-      const uuid = crypto.randomUUID()
+    // Create user
+    console.log("Creating user...")
+    const user = await solidcoreDb.users.create({
+      email,
+      password: hashedPassword,
+      firstName,
+      lastName,
+      solidcoreEmail,
+      solidcorePassword: hashedSolidcorePassword,
+    })
+    console.log("User created successfully")
 
-      // Create user with direct SQL
-      await db.$executeRaw`
-        INSERT INTO "User" (
-          id, 
-          email, 
-          "passwordHash", 
-          name,
-          "hasLifetimeCredentials", 
-          "lifetimeCredentials", 
-          "createdAt", 
-          "updatedAt"
-        ) 
-        VALUES (
-          ${uuid}, 
-          ${email}, 
-          ${hashedPassword}, 
-          ${name || null},
-          false, 
-          '{}', 
-          CURRENT_TIMESTAMP, 
-          CURRENT_TIMESTAMP
-        )
-      `
+    // Create a JWT token
+    const token = await new SignJWT({
+      email: user.email,
+      firstName: user.firstName,
+      lastName: user.lastName,
+      solidcoreEmail: user.solidcoreEmail,
+    })
+      .setProtectedHeader({ alg: 'HS256' })
+      .setIssuedAt()
+      .setExpirationTime('24h')
+      .sign(JWT_SECRET)
 
-      console.log("User created successfully with ID:", uuid)
-
-      return NextResponse.json({
-        id: uuid,
-        email,
-        name,
-      })
-    } catch (dbError) {
-      console.error("Database error during user creation:", dbError)
-
-      return NextResponse.json(
-        {
-          error: "Database error during user creation",
-          details: dbError instanceof Error ? dbError.message : String(dbError),
-        },
-        { status: 500 },
-      )
-    }
-  } catch (error) {
-    console.error("Unhandled error in registration route:", error)
-
-    return NextResponse.json(
-      {
-        error: "Failed to register user",
-        details: error instanceof Error ? error.message : String(error),
+    return NextResponse.json({
+      token,
+      user: {
+        email: user.email,
+        firstName: user.firstName,
+        lastName: user.lastName,
+        solidcoreEmail: user.solidcoreEmail,
       },
-      { status: 500 },
+    })
+  } catch (error) {
+    console.error("Registration error:", error)
+    return NextResponse.json(
+      { error: 'Internal server error' },
+      { status: 500 }
     )
   }
 }

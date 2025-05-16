@@ -1,7 +1,6 @@
 "use client"
 
 import { useState, useEffect, useRef } from "react"
-import { useSession } from "next-auth/react"
 import type { Day, Session } from "@/lib/types"
 import { getJobData } from "@/lib/storage-utils"
 
@@ -12,11 +11,10 @@ interface ScheduleDayProps {
 }
 
 export default function ScheduleDay({ day, onSessionClick, userId: propUserId }: ScheduleDayProps) {
-  const { data: sessionData } = useSession()
   const [sessionStatuses, setSessionStatuses] = useState<Record<string, boolean>>({})
 
   // Get the user ID from props or session
-  const userId = propUserId || sessionData?.user?.id
+  const userId = propUserId
 
   // Use a ref to track if the component is mounted
   const isMounted = useRef(true)

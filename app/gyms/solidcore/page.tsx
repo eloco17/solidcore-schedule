@@ -1,0 +1,1 @@
+// This file will be moved to app/schedule/page.tsx 

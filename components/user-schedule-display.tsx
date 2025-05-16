@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react"
 import { useRouter } from "next/navigation"
-import { useSession } from "next-auth/react"
 import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
 import { toast } from "sonner"
@@ -17,7 +16,6 @@ interface UserScheduleDisplayProps {
 
 export default function UserScheduleDisplay({ userId: propUserId }: UserScheduleDisplayProps) {
   const router = useRouter()
-  const { data: sessionData } = useSession()
   const [scheduleData, setScheduleData] = useState<ScheduleData | null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)

@@ -1,23 +1,21 @@
 import { NextResponse } from "next/server"
-import { db } from "@/lib/db"
+import { PrismaClient } from "@prisma/client"
 import bcrypt from "bcrypt"
 import { cookies } from "next/headers"
 
-// This is a direct implementation of the credentials callback
-// that bypasses NextAuth's URL handling
+const prisma = new PrismaClient()
+
 export async function POST(request: Request) {
   try {
-    // Parse request body
     const body = await request.json()
     const { email, password } = body
 
-    // Basic validation
     if (!email || !password) {
       return NextResponse.json({ error: "Missing email or password" }, { status: 400 })
     }
 
-    // Find user
-    const user = await db.user.findUnique({
+    // Find user in solidcoreUser table
+    const user = await prisma.solidcoreUser.findUnique({
       where: { email },
     })
 
@@ -26,8 +24,7 @@ export async function POST(request: Request) {
     }
 
     // Check password
-    const isPasswordValid = await bcrypt.compare(password, user.passwordHash)
-
+    const isPasswordValid = await bcrypt.compare(password, user.password)
     if (!isPasswordValid) {
       return NextResponse.json({ error: "Invalid password" }, { status: 401 })
     }
@@ -37,12 +34,12 @@ export async function POST(request: Request) {
       user: {
         id: user.id,
         email: user.email,
-        name: user.name,
+        name: user.firstName + ' ' + user.lastName,
       },
       expires: new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toISOString(), // 30 days
     }
 
-    // Set the session cookie with Safari-friendly settings
+    // Set the session cookie
     cookies().set({
       name: "next-auth.session-token",
       value: Buffer.from(JSON.stringify(session)).toString("base64"),
@@ -54,7 +51,7 @@ export async function POST(request: Request) {
       priority: "high"
     })
 
-    // Set a non-httpOnly cookie for client-side detection with Safari-friendly settings
+    // Set a non-httpOnly cookie for client-side detection
     cookies().set({
       name: "auth-status",
       value: "authenticated",
@@ -65,7 +62,7 @@ export async function POST(request: Request) {
       priority: "high"
     })
 
-    // Set additional headers for Safari
+    // Set additional headers
     const headers = new Headers()
     headers.append("Cache-Control", "no-store, no-cache, must-revalidate")
     headers.append("Pragma", "no-cache")
@@ -77,10 +74,10 @@ export async function POST(request: Request) {
         user: {
           id: user.id,
           email: user.email,
-          name: user.name,
+          name: user.firstName + ' ' + user.lastName,
         },
       },
-      { 
+      {
         headers,
         status: 200
       }
@@ -92,4 +89,4 @@ export async function POST(request: Request) {
       { status: 500 }
     )
   }
-}
+} 
