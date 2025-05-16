@@ -82,10 +82,10 @@ export async function POST(request: Request) {
         status: 200
       }
     )
-  } catch (error) {
+  } catch (error: unknown) {
     console.error("Login error:", error)
     return NextResponse.json(
-      { error: "An unexpected error occurred" },
+      { error: "An unexpected error occurred", details: error instanceof Error ? error.message : "Unknown error" },
       { status: 500 }
     )
   }
