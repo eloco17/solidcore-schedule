@@ -47,7 +47,7 @@ npm run check-schedule
 
 ## Usage
 
-1. Open the application in your browser at `http://localhost:3000`
+1. Open the application in your browser at `https://solidcore-schedule.vercel.app/`
 2. Select your desired location, class type, day, and time
 3. Click "Schedule Class" to add it to your booking list
 4. The bot will automatically attempt to book the class when the schedule is released
